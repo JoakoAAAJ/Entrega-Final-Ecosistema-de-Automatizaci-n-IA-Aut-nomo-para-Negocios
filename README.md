@@ -9,3 +9,5 @@ Antes de contactar al cliente, el sistema implementa un proceso **Human-in-the-l
 También se implementaron mecanismos de **resiliencia y seguridad**, incluyendo manejo de errores de IA y Gmail, prevención de respuestas duplicadas, registro de errores en Notion y utilización del **Gmail Thread ID** para mantener la conversación dentro del hilo original.
 
 Este repositorio contiene la documentación de la solución, el Blueprint JSON de Make y las evidencias de ejecución utilizadas para la entrega final.
+
+
