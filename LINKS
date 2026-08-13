@@ -1,0 +1,26 @@
+# 🔗 Links del Proyecto
+
+A continuación se encuentran los accesos principales utilizados para la entrega del proyecto **Ecosistema de Automatización IA Autónomo para Negocios**.
+
+## 🗄️ Notion — Base de Datos
+
+Base utilizada para gestionar los **Tickets de Soporte IA**, incluyendo estados, resultados del análisis, aprobación humana, errores y trazabilidad del flujo.
+
+👉 [Abrir base de datos en Notion](https://app.notion.com/p/3b7d63c79afd80dfaa4ce5727e80d7fc?v=3b7d63c79afd8062bc74000cbf27c8ae&source=copy_link)
+
+## ⚙️ Make — Proyecto Final
+
+Escenario completo de automatización desarrollado en **Make**, incluyendo procesamiento con IA, actualización de Notion, Human-in-the-loop y manejo de errores.
+
+👉 [Abrir escenario público en Make](https://us2.make.com/public/shared-scenario/yOV346UbT45/entrega-final-ecosistema-de-automatizac)
+
+## 🎥 Video Demo
+
+Video de presentación del proyecto donde se explica la solución y se muestra la ejecución completa del flujo.
+
+👉 [Ver video de demostración en Google Drive](https://drive.google.com/file/d/1Zn0BYLj1nwEKf9CoHazQ3v0RB778QL00/view?usp=sharing)
+
+---
+
+**Proyecto:** Entrega Final — Ecosistema de Automatización IA Autónomo para Negocios
+**Caso de uso:** Triage de Tickets de Soporte Técnico
